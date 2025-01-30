@@ -1,5 +1,5 @@
 import java.util.Scanner; // No se había importado
-
+//Lo que entendí de este código es que si el número tenía un 3,7,8,9 era un número ganador de lo contrario era un número perdedor.
 public class Codigo5 {
     public static void main(String[] args) { // no tenía main
         Scanner s = new Scanner(System.in);
